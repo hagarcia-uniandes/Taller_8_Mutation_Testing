@@ -1,0 +1,101 @@
+ThreadPool: 8
+Mutant 1: mutants//es.usc.citius.servando.calendula-mutant1/src//AndroidManifest.xml; InvalidLabel in line { 19 }
+	For mutant 1 activity label at line 19 has been change from "@string/title_activity_routines" to "1be978845f0d4b50a35e7fc39db2aa0f"
+Mutant 2: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant2/src//smali/es/usc/citius/servando/calendula/CalendulaActivity.smali; InvalidKeyIntentPutExtra in line { 293 }
+	For mutant 2 extra key value at line 293 has been set to 77843f849b244020b50874730d370ab2
+Mutant 3: mutants//es.usc.citius.servando.calendula-mutant3/src//AndroidManifest.xml; ActivityNotDefined in line { 17 }
+	For mutant 3 the lines between 18 and 18 have been deleted.
+Mutant 4: mutants//es.usc.citius.servando.calendula-mutant4/src//AndroidManifest.xml; InvalidActivityPATH in line { 17 }
+	For mutant 4 activity name at line 17 has been change from "es.usc.citius.servando.calendula.activities.MaterialIntroActivity" to "es.usc.citius.servando.calenrula.activities.MaterialIntdoActivity"
+Mutant 5: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant5/src//smali/es/usc/citius/servando/calendula/CalendulaActivity.smali; DifferentActivityIntentDefinition in line { 289 }
+	For mutant 5 component name at line 289 has been change from "Les/usc/citius/servando/calendula/activities/StartActivity;" to "Les/usc/citius/servando/calendula/activities/MedicineInfoActivity;"
+Mutant 6: mutants//es.usc.citius.servando.calendula-mutant6/src//AndroidManifest.xml; InvalidLabel in line { 20 }
+	For mutant 6 activity label at line 20 has been change from "@string/app_name" to "f7c3cd704b68485595082d14f787f63c"
+Mutant 7: mutants//es.usc.citius.servando.calendula-mutant7/src//AndroidManifest.xml; InvalidLabel in line { 21 }
+	For mutant 7 activity label at line 21 has been change from "@string/title_activity_medicines" to "672fe90b92c74817bd99cd33f4c40b27"
+Mutant 8: mutants//es.usc.citius.servando.calendula-mutant8/src//AndroidManifest.xml; InvalidLabel in line { 22 }
+	For mutant 8 activity label at line 22 has been change from "@string/title_activity_medicines" to "2feff52f724b467ab0ff285e5f462e3e"
+Mutant 9: mutants//es.usc.citius.servando.calendula-mutant9/src//AndroidManifest.xml; InvalidLabel in line { 23 }
+	For mutant 9 activity label at line 23 has been change from "@string/title_activity_medicines_search" to "4065b1ff3130476ab25d0ce34a55d154"
+Mutant 10: mutants//es.usc.citius.servando.calendula-mutant10/src//AndroidManifest.xml; InvalidLabel in line { 24 }
+	For mutant 10 activity label at line 24 has been change from "@string/title_activity_schedules" to "74ac0bfc928e4893a34bdc96719a5ec5"
+Mutant 11: mutants//es.usc.citius.servando.calendula-mutant11/src//AndroidManifest.xml; InvalidLabel in line { 31 }
+	For mutant 11 activity label at line 31 has been change from "@string/title_activity_schedules" to "fdb4564ab33844b3b4acdba334c408bc"
+Mutant 12: mutants//es.usc.citius.servando.calendula-mutant12/src//AndroidManifest.xml; InvalidLabel in line { 47 }
+	For mutant 12 activity label at line 47 has been change from "@string/title_activity_calendar" to "7c5d918e27e34da5bae962535244ed56"
+Mutant 13: mutants//es.usc.citius.servando.calendula-mutant13/src//AndroidManifest.xml; InvalidLabel in line { 48 }
+	For mutant 13 activity label at line 48 has been change from "ScanActivity" to "e40bff5b20f146588136a77741bd1b85"
+Mutant 14: mutants//es.usc.citius.servando.calendula-mutant14/src//AndroidManifest.xml; InvalidLabel in line { 49 }
+	For mutant 14 activity label at line 49 has been change from "Calendula" to "51f5de9f48d0476583008a55cbad7d4b"
+Mutant 15: mutants//es.usc.citius.servando.calendula-mutant15/src//AndroidManifest.xml; InvalidLabel in line { 56 }
+	For mutant 15 activity label at line 56 has been change from "@string/title_activity_confirm_schedules" to "d43e06b2cd9344ff8b6d4bf8e8d556de"
+Mutant 16: mutants//es.usc.citius.servando.calendula-mutant16/src//AndroidManifest.xml; InvalidLabel in line { 57 }
+	For mutant 16 activity label at line 57 has been change from "@string/title_activity_patients" to "f075475eee9e45fe8d60eeff4f130d71"
+Mutant 17: mutants//es.usc.citius.servando.calendula-mutant17/src//AndroidManifest.xml; InvalidLabel in line { 58 }
+	For mutant 17 activity label at line 58 has been change from "@string/title_activity_patient_detail" to "02add8d1bb12407ba2c5c38e260b7d8c"
+Mutant 18: mutants//es.usc.citius.servando.calendula-mutant18/src//AndroidManifest.xml; InvalidLabel in line { 61 }
+	For mutant 18 activity label at line 61 has been change from "@string/title_activity_about" to "4957d5d400b64bf49cec318bc8761843"
+Mutant 19: mutants//es.usc.citius.servando.calendula-mutant19/src//AndroidManifest.xml; InvalidLabel in line { 66 }
+	For mutant 19 activity label at line 66 has been change from "@string/title_activity_webview" to "b9153278eed7405493eb6f42e109862e"
+Mutant 20: mutants//es.usc.citius.servando.calendula-mutant20/src//AndroidManifest.xml; InvalidLabel in line { 67 }
+	For mutant 20 activity label at line 67 has been change from "@string/title_activity_allergies" to "e7f3aaa5a2f7419d9efe91f486db66c6"
+Mutant 21: mutants//es.usc.citius.servando.calendula-mutant21/src//AndroidManifest.xml; InvalidLabel in line { 68 }
+	For mutant 21 activity label at line 68 has been change from "@string/title_activity_allergies_search" to "80fff9fa2f094cd59e7369479811d04b"
+Mutant 22: mutants//es.usc.citius.servando.calendula-mutant22/src//AndroidManifest.xml; InvalidLabel in line { 69 }
+	For mutant 22 activity label at line 69 has been change from "@string/title_activity_allergies_search" to "7968bfd55b40452fb08b450b234acbc1"
+Mutant 23: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant23/src//smali/es/usc/citius/servando/calendula/HomePagerActivity$5.smali; InvalidKeyIntentPutExtra in line { 47 }
+	For mutant 23 extra key value at line 47 has been set to 9ba2c9d486aa4a0caace863bf7b41ba2
+Mutant 24: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant24/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 586 }
+	For mutant 24 extra key value at line 586 has been set to 0ff9e2fbdc8a4c0691e53ddd122e352e
+Mutant 25: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant25/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 596 }
+	For mutant 25 extra key value at line 596 has been set to dd30c9503e904ec981aacece9ef42d7f
+Mutant 26: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant26/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 612 }
+	For mutant 26 extra key value at line 612 has been set to 0dd263072b37456dbd993cb46bcc717a
+Mutant 27: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant27/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 592 }
+	For mutant 27 extra key value at line 592 has been set to dd6b462ae0334361aea0ca5250aa8d1f
+Mutant 28: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant28/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 548 }
+	For mutant 28 extra key value at line 548 has been set to be436dd5dfe64507a4de2a7dbb4ea230
+Mutant 29: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant29/src//smali/es/usc/citius/servando/calendula/settings/notifications/NotificationPrefsFragment.smali; InvalidKeyIntentPutExtra in line { 618 }
+	For mutant 29 extra key value at line 618 has been set to 29bf04cabcb84b43abba62db2a486ae9
+Mutant 30: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant30/src//smali/es/usc/citius/servando/calendula/pinlock/PinLockActivity$NewPinListener$1.smali; InvalidKeyIntentPutExtra in line { 118 }
+	For mutant 30 extra key value at line 118 has been set to bdb814efc58f4febbad3bfc9340da63e
+Mutant 31: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant31/src//smali/es/usc/citius/servando/calendula/pinlock/PinLockActivity.smali; InvalidKeyIntentPutExtra in line { 159 }
+	For mutant 31 extra key value at line 159 has been set to b022958128b54212b4fba29ef70bdfe2
+Mutant 32: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant32/src//smali/es/usc/citius/servando/calendula/activities/MedicinesSearchActivity$2.smali; InvalidKeyIntentPutExtra in line { 47 }
+	For mutant 32 extra key value at line 47 has been set to 7be33e09832b4372b8d2f7779ba9655a
+Mutant 33: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant33/src//smali/es/usc/citius/servando/calendula/activities/MedicineInfoActivity.smali; InvalidKeyIntentPutExtra in line { 676 }
+	For mutant 33 extra key value at line 676 has been set to d8a7cdaf7cf34a33b347c5bd3dd80fe1
+Mutant 34: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant34/src//smali/es/usc/citius/servando/calendula/activities/MedicinesActivity.smali; InvalidKeyIntentPutExtra in line { 1068 }
+	For mutant 34 extra key value at line 1068 has been set to 513624a7ebe1478e9c2b36d7e7fcf390
+Mutant 35: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant35/src//smali/es/usc/citius/servando/calendula/activities/MedicinesSearchActivity$7.smali; InvalidKeyIntentPutExtra in line { 62 }
+	For mutant 35 extra key value at line 62 has been set to 40947ed448674ac08dd8c334de549790
+Mutant 36: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant36/src//smali/es/usc/citius/servando/calendula/activities/MedicinesSearchActivity.smali; InvalidKeyIntentPutExtra in line { 290 }
+	For mutant 36 extra key value at line 290 has been set to 50b92e0ec38b4f78a82090b8a04456ff
+Mutant 37: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant37/src//smali/es/usc/citius/servando/calendula/activities/PatientsActivity.smali; InvalidKeyIntentPutExtra in line { 413 }
+	For mutant 37 extra key value at line 413 has been set to 4528f72f0a1348d3bdd44a8977e770df
+Mutant 38: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant38/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 430 }
+	For mutant 38 extra key value at line 430 has been set to adfbcdbcea8c4ae39b40969076db2618
+Mutant 39: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant39/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 346 }
+	For mutant 39 extra key value at line 346 has been set to 5ff0c26a60e44e5d9aa169f229d0d022
+Mutant 40: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant40/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 360 }
+	For mutant 40 extra key value at line 360 has been set to f1c7487ed72a4f9bb94afcb6f2fdefb7
+Mutant 41: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant41/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 376 }
+	For mutant 41 extra key value at line 376 has been set to e357a23139794d239c2aa50a6b8b2595
+Mutant 42: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant42/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 997 }
+	For mutant 42 extra key value at line 997 has been set to 81a0724ff81149108469b3c488d5056c
+Mutant 43: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant43/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 804 }
+	For mutant 43 extra key value at line 804 has been set to 25a9aa61359941058a23f7c190d4b58b
+Mutant 44: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant44/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 454 }
+	For mutant 44 extra key value at line 454 has been set to 2e721b7e4b33466983f9f1b08ea0a21c
+Mutant 45: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant45/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 1005 }
+	For mutant 45 extra key value at line 1005 has been set to 678e41214867439a9cb7673f0a4091ad
+Mutant 46: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant46/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 810 }
+	For mutant 46 extra key value at line 810 has been set to eb5dd207b5af47c8a1edc762015554c9
+Mutant 47: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant47/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 470 }
+	For mutant 47 extra key value at line 470 has been set to 9c79168799da434cbeec9bc649a1d4a5
+Mutant 48: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant48/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 991 }
+	For mutant 48 extra key value at line 991 has been set to c5f2d242385a46728398c753c48e09d4
+Mutant 49: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant49/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 444 }
+	For mutant 49 extra key value at line 444 has been set to c55b29a6babf41beb81b8f96b97d1442
+Mutant 50: /home/hanner/Proyectos/Uniandes/Pruebas/workspace/mutations/MutAPK/mutants//es.usc.citius.servando.calendula-mutant50/src//smali/es/usc/citius/servando/calendula/activities/ReminderNotification.smali; InvalidKeyIntentPutExtra in line { 494 }
+	For mutant 50 extra key value at line 494 has been set to 87c6765d42f346b6ada2082d64a79615
